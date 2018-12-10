@@ -1,0 +1,6 @@
+SQL> desc avaliador;
+ Nome                                      Nulo?    Tipo
+ ----------------------------------------- -------- ----------------------------
+ COD_AVALIADOR                             NOT NULL VARCHAR2(50)
+
+SQL> spool off

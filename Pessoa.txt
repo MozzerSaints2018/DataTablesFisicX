@@ -1,0 +1,15 @@
+SQL> desc pessoaf;
+ Nome                                      Nulo?    Tipo
+ ----------------------------------------- -------- ----------------------------
+ ID_ALUNO                                           VARCHAR2(50)
+ COD_AVALIADOR                                      VARCHAR2(50)
+ NOME                                               VARCHAR2(100)
+ CPF                                                VARCHAR2(100)
+ LOGRADOURO                                         VARCHAR2(100)
+ NLOGRADOURO                                        NUMBER(38)
+ CIDADE                                             VARCHAR2(100)
+ BAIRRO                                             VARCHAR2(100)
+ IDADE                                              NUMBER(38)
+ SEXO                                               VARCHAR2(15)
+
+SQL> spool off

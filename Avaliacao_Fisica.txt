@@ -1,0 +1,8 @@
+SQL> desc avaliacao_fisica;
+ Nome                                      Nulo?    Tipo
+ ----------------------------------------- -------- ----------------------------
+ COD_AVALIACAO_FISICA                               VARCHAR2(50)
+ ID_ALUNO                                           VARCHAR2(50)
+ COD_AVALIADOR                                      VARCHAR2(50)
+
+SQL> spool off

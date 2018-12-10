@@ -1,0 +1,10 @@
+SQL> desc treinos
+ Nome                                      Nulo?    Tipo
+ ----------------------------------------- -------- ----------------------------
+ ID_ALUNO                                           VARCHAR2(50)
+ COD_AVALIADOR                                      VARCHAR2(50)
+ COD_TREINO                                NOT NULL VARCHAR2(50)
+ COD_AVALIACAO_FISICA                               VARCHAR2(50)
+ TREINOS                                            VARCHAR2(500)
+
+SQL> spool off

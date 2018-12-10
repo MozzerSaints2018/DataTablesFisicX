@@ -1,0 +1,31 @@
+SQL> desc aluno;
+ Nome                                      Nulo?    Tipo
+ ----------------------------------------- -------- ----------------------------
+ ID_ALUNO                                  NOT NULL VARCHAR2(50)
+ ALTURA_ALUNO                                       FLOAT(126)
+ PESO_ALUNO                                         FLOAT(126)
+ PESCOCO                                            FLOAT(126)
+ OMBRO                                              FLOAT(126)
+ BRADIREITO                                         FLOAT(126)
+ BRAESQUERDO                                        FLOAT(126)
+ ANTIBRADIREITO                                     FLOAT(126)
+ ANTIBRAESQUERDO                                    FLOAT(126)
+ TORAX                                              FLOAT(126)
+ CINTURA                                            FLOAT(126)
+ ABDOMEN                                            FLOAT(126)
+ QUADRIL                                            FLOAT(126)
+ COXDIREITA                                         FLOAT(126)
+ COXESQUERDA                                        FLOAT(126)
+ PANDIREITA                                         FLOAT(126)
+ PANESQUERDA                                        FLOAT(126)
+ TRICIPITAL                                         FLOAT(126)
+ BICIPITAL                                          FLOAT(126)
+ TORAXICA                                           FLOAT(126)
+ AXMEDIA                                            FLOAT(126)
+ SUBSCAPULAR                                        FLOAT(126)
+ SUILIACA                                           FLOAT(126)
+ PEITMEDIA                                          FLOAT(126)
+ ABDOMINAL                                          FLOAT(126)
+ PANTURRILHA                                        FLOAT(126)
+
+SQL> spool off
